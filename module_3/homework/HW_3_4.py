@@ -34,5 +34,6 @@
 #         elif verification_data[login] != password:
 #             print('Введёный пароль не верен')
 #
+#
 # registration(login, password)
 # log_in(login, password)
